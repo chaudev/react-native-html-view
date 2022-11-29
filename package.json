@@ -1,6 +1,6 @@
 {
-  "name": "react-native-html-viewer",
-  "version": "1.0.0",
+  "name": "react-native-html-reader",
+  "version": "1.0.1",
   "description": "A component which renders HTML content as native views",
   "main": "index.js",
   "scripts": {

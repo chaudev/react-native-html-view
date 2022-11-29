@@ -14,11 +14,11 @@ In action (from [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHacke
 
 ### Install
 ```
-yarn add react-native-html-view deprecated-react-native-prop-types
+yarn add react-native-html-reader deprecated-react-native-prop-types
 ```
 or
 ```
-npm install react-native-html-view deprecated-react-native-prop-types
+npm install react-native-html-reader deprecated-react-native-prop-types
 ```
 
 
@@ -55,7 +55,7 @@ props:
 ```js
 import React from 'react';
 import {StyleSheet} from 'react-native';
-import HTMLView from 'react-native-html-view';
+import HTMLView from 'react-native-html-reader';
 
 class App extends React.Component {
   render() {
